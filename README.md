@@ -1,29 +1,15 @@
-# Desenvolvendo o Dio Bank
-desenvolvido por [Nathally Souza](https://github.com/nathyts)
+# Tela Login React
 
-#### Projeto desenvolvido com React
 
 ### Tecnologias
 - Typescript
+- React
+- Chakra ui
 
-### Como rodar o projeto
+### Exemplo
 
-1 - Clone o repositório
+![image](https://user-images.githubusercontent.com/47954728/218625527-0d939b2c-dc07-4cd0-8a67-3529c19b979e.png)
 
-2 - Instale as dependeências
-    
-    npm install
 
-3 - Execute o projeto
+![image](https://user-images.githubusercontent.com/47954728/218625469-97091541-58f0-4b92-957f-ce05d9c69d88.png)
 
-    npm start
-
-#### Desafios
-[ ] Crie os componentes referentes aos elementos na página inicial
-  - Crie um componente para o header, com o título da aplicação
-  - Crie um componente para o botão, que aceite onClick como uma das props do componente
-  - Refatore o componente Card para receber o formulário de login. Ao invés de chamar elemento por elemento na página inicial, apenas o componente Card deve ser chamado.
-
-[ ] Crie uma função de Boas vindas
-  - Ao clicar no botão, deve aparecer um alert com uma mensagem de boas vindas
-  - Crie o teste unitário da função
